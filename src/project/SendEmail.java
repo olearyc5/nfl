@@ -12,7 +12,7 @@ public class SendEmail {
       String to = "conorolearynfl@gmail.com";
 
       // Sender's email ID needs to be mentioned
-      String from = "conorol.engineer@gmail.com";
+      String from = "conorolearynfl@gmail.com";
 
       // Assuming you are sending email from localhost
       String host = "localhost";
