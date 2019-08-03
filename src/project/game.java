@@ -64,9 +64,6 @@ public class game {
 			System.out.println(this.away.getName() + " favoured by " + (line * -1) + " points");
 		}*/
 		//System.out.println("\n");
-		//Attempt 1
-		
-
 	}
 
 	public team getHome() {
